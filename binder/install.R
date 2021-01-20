@@ -1,2 +1,5 @@
 install.packages("tidyverse")
+install.packages("tidymodels")
+install.packages("RSocrata")
+install.packages("janitor")
 install.packages("rjson")
